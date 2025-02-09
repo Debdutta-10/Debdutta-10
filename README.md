@@ -1,28 +1,81 @@
-<h1 align="center">Hi 👋, I'm Debdutta Mukherjee</h1>
-<h3 align="center">Hi, I am Debdutta Mukherjee, a dedicated student pursuing a Bachelor of Technology in Computer Science Engineering from VIT Chennai. I possess a good command over programming languages such as C++, Java, and have interest in web development technologies. I am also enthusiastic about exploring the fields of artificial intelligence and machine learning.I am eager to connect with professionals who share similar interests and passion for innovation. Let's collaborate and create meaningful contributions together!</h3>
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h2 align="center">Hi 👋! My name is Debdutta Mukherjee.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debdutta-10&label=Profile%20views&color=0e75b6&style=flat" alt="debdutta-10" /> </p>
+---
 
-- 🌱 I’m currently learning **DSA, React, NodeJS, ExpressJS**
+<h3 align="center">I'm a Final year B.Tech CSE student from VIT-Chennai and I'm passionate about Web Development, AI, and ML.</h3>
 
-- 💬 Ask me about **MERN**
+---
 
-- 📫 How to reach me **debduttamukherjee32@gmail.com**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=debdutta-10&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debdutta-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+---
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
+
+---
+
+<h3 align="left">Technologies & Tools I am familiar with:</h3>
+
+Here's the modified design with the technologies you requested, following the badge style:
+
+<p align="left">
+  <a href="#">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <br/>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <br/>
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <br/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    <br/>
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4F83C1?style=for-the-badge&logo=seaborn&logoColor=white"/>
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <br/>
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debdutta-mukherjee-5b3a28248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debdutta-mukherjee-5b3a28248/" height="30" width="40" /></a>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/debdutta-mukherjee-5b3a28248/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debdutta-10&show_icons=true&theme=dracula" alt="Debdutta's GitHub Stats" width="300" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debdutta-10&theme=radical" alt="Debdutta's Profile Details" width="500" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<div style="display: flex; justify-content: space-between">
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debdutta-10&show_icons=true&locale=en&layout=compact" alt="debdutta-10" /></p>
-</div>
-<p align="center">
-      <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debdutta-10&theme=radical" alt="a2ys" /></p>
-</p>
-</div>
+
+
