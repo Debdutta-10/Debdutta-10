@@ -78,10 +78,9 @@
 
 ---
 
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debdutta-10&show_icons=true&theme=dracula" alt="Debdutta's GitHub Stats" width="300" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debdutta-10&theme=radical" alt="Debdutta's Profile Details" width="500" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=debdutta-10&show_icons=true&theme=dracula" alt="Debdutta's GitHub Stats" width="300" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debdutta-10&theme=radical" alt="Debdutta's Profile Details" width="500" /> -->
 </p>
 
 
