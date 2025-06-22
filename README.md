@@ -8,10 +8,19 @@
 
 ---
 
+<p align="center">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=debdutta-10&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debdutta-10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="160" alt="languages graph" />
-</div>
+ <a href="https://github.com/Debdutta-10"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debdutta-10&theme=algolia" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debdutta-10&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debdutta-10&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Debdutta-10&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+
+
+ <div align="center">
 
 ---
 
